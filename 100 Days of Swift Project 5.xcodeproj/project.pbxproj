@@ -13,6 +13,7 @@
 		C21953BE2746D79900837D4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C21953BC2746D79900837D4F /* Main.storyboard */; };
 		C21953C02746D79A00837D4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C21953BF2746D79A00837D4F /* Assets.xcassets */; };
 		C21953C32746D79A00837D4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C21953C12746D79A00837D4F /* LaunchScreen.storyboard */; };
+		C21953CB2746D84E00837D4F /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = C21953CA2746D84E00837D4F /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C21953BF2746D79A00837D4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C21953C22746D79A00837D4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C21953C42746D79A00837D4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C21953CA2746D84E00837D4F /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C21953BF2746D79A00837D4F /* Assets.xcassets */,
 				C21953C12746D79A00837D4F /* LaunchScreen.storyboard */,
 				C21953C42746D79A00837D4F /* Info.plist */,
+				C21953CA2746D84E00837D4F /* start.txt */,
 			);
 			path = "100 Days of Swift Project 5";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C21953C32746D79A00837D4F /* LaunchScreen.storyboard in Resources */,
+				C21953CB2746D84E00837D4F /* start.txt in Resources */,
 				C21953C02746D79A00837D4F /* Assets.xcassets in Resources */,
 				C21953BE2746D79900837D4F /* Main.storyboard in Resources */,
 			);
